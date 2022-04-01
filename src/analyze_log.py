@@ -1,4 +1,4 @@
-from utils.analyze import orders_file, maria, arnaldo, joao, days_joao
+from src.utils.analyze import orders_file, maria, arnaldo, joao, days_joao
 
 
 def analyze_log(path_to_file):
